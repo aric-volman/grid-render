@@ -2,6 +2,9 @@
 
 A blender file with 2023 FRC Charged-Up Cones and Cubes, along with Grid.
 
+![model](model.png)
+![shaded](shadedmodel.png)
+
 ## Why??
 
 To create a sort-of realistic method of rendering FRC scenes for use in Computer Vision
